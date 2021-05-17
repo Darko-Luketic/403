@@ -1,0 +1,8 @@
+Pristup upravitelju vjerodajnica
+Upravitelj vjerodajnica omogućuje vam pregledavanje i brisanje spremljenih vjerodajnica za prijave na web-mjesta, povezane aplikacije i mreže.
+1
+Da biste otvorili Upravitelja vjerodajnica, utipkajte upravitelj vjerodajnica u okvir pretraživanja na programskoj traci i odaberite Upravljačka ploča Upravitelja vjerodajnica. 
+2
+Odaberite Web-vjerodajnice ili Vjerodajnice za Windows da biste pristupili vjerodajnicama kojima želite upravljati.
+
+trebalo je obrisat stare sire iz windovsa, zbog njih je nastao bug i nije se mogao koristit novy git hub.
